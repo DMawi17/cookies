@@ -1,0 +1,13 @@
+{
+  "name": "cookies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DMawi17/cookies.git",
+  "author": "DMawi17 <75326045+DMawi17@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
