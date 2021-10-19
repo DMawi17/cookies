@@ -5,6 +5,10 @@
   "repository": "git@github.com:DMawi17/cookies.git",
   "author": "DMawi17 <75326045+DMawi17@users.noreply.github.com>",
   "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
